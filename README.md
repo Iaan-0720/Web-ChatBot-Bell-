@@ -40,3 +40,5 @@ Ian/@Ian (aoa8538@gmail.com)
 - 또한 웹 구동 방식 및, 디자인 CSS소스를 비롯하여 'views' 디렉토리 내에 있는 'index.ejs'에 입력 및 설명되어 있으니 참고 하시면 되겠습니다.
 
 # Data(Send & Receive) Flow
+![explain](https://user-images.githubusercontent.com/79067558/108029398-b9c0cb00-7070-11eb-8d52-b4feb8208c10.png)<br/>
+- 파일을 실행시키기에 앞서, 전반적인 데이터들의 상호작용(흐름)에 대하여 작성해본 사진입니다.

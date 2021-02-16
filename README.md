@@ -14,7 +14,7 @@ It can Explain about Words of Standard law from South Korea
 Ian/@Ian (aoa8538@gmail.com)
 
 # Requirement
-- 사용된 툴은 다음과 같습니다.
+- 사용된 툴은 다음과 같습니다.<br/>
   - Python 3.7.9
   - Tensorflow 2.4.1
   - konlpy

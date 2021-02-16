@@ -14,7 +14,7 @@ It can Explain about Words of Standard law from South Korea
 Ian/@Ian (aoa8538@gmail.com)
 
 # Requirement
-- 사용된 버전은 다음과 같습니다.
+- 사용된 툴은 다음과 같습니다.
   - Python 3.7.9
   - Tensorflow 2.4.1
   - konlpy
@@ -31,3 +31,5 @@ Ian/@Ian (aoa8538@gmail.com)
 ├── chatbot.py:&nbsp;&nbsp;&nbsp;&nbsp; 프로그램 실행의 시작과 끝까지, 모든 소스가 작성되어 있는 메인 파일입니다.<br/>
 ├── ChatBotData.csv:&nbsp;&nbsp;&nbsp;&nbsp; '송경숙'님의 데이터 소스(소스 경로는 상위 'Learning Data' 파트에 명시했습니다.)<br/>
 ├── index.js:&nbsp;&nbsp;&nbsp;&nbsp; 'Web Serve'에 해당하는 js 파일입니다.
+
+# Design

@@ -27,10 +27,10 @@ Ian/@Ian (aoa8538@gmail.com)
 <br/>
 ├── QnA:&nbsp;&nbsp;&nbsp;&nbsp; 질문과 답변을 저장하는 디렉토리<br/>
 ├── socket.io:&nbsp;&nbsp;&nbsp;&nbsp;웹 소켓 구현을 위해 기본적인 파일들이 저장된 디렉토리<br/>
-├── views:&nbsp;&nbsp;&nbsp;&nbsp; 웹 페이지 구현을 위해 작성된 ejs 데이터 파일이 저장된 디렉토리, Web Browser에 해당합니다.<br/>
+├── views:&nbsp;&nbsp;&nbsp;&nbsp; 웹 페이지 구현을 위해 작성된 ejs 데이터 파일이 저장된 디렉토리, 'Web Browser'에 해당합니다.<br/>
 ├── chatbot.py:&nbsp;&nbsp;&nbsp;&nbsp; 프로그램 실행의 시작과 끝까지, 모든 소스가 작성되어 있는 메인 파일입니다.<br/>
 ├── ChatBotData.csv:&nbsp;&nbsp;&nbsp;&nbsp; '송경숙'님의 데이터 소스(소스 경로는 상위 'Learning Data' 파트에 명시했습니다.)<br/>
-├── index.js:&nbsp;&nbsp;&nbsp;&nbsp; 'Web Serve'에 해당하는 js 파일입니다.
+├── index.js:&nbsp;&nbsp;&nbsp;&nbsp; 'Web Server'에 해당하는 js 파일입니다.
 
 # Design
 ![initial](https://user-images.githubusercontent.com/79067558/108025412-c988e100-7069-11eb-8fbd-6903ef0ee0ce.png)<br/>

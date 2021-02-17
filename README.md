@@ -35,6 +35,7 @@ Ian/@Ian (aoa8538@gmail.com)
 
 # Design
 <img src="https://user-images.githubusercontent.com/79067558/108025412-c988e100-7069-11eb-8fbd-6903ef0ee0ce.png" width="60%"><br/>
+<img sre="https://user-images.githubusercontent.com/79067558/108144214-951a3100-710c-11eb-9289-41c0f421b2a4.png" width="50%"><br/>
 - 디자인은 상위에 소개된 사진과 같으며, 반드시 'chatbot.py'와 'index.js' 이 두 파일을 모두 실행해주셔야 구동됩니다.<br/>
 - 챗봇의 전반적인 구동 방식은 'chatbot.py'파일에 수록해놓았으니 참조 바랍니다.<br/>
 - 또한 웹 구동 방식 및, 디자인 CSS소스를 비롯하여 'views' 디렉토리 내에 있는 'index.ejs'에 입력 및 설명되어 있으니 참고 하시면 되겠습니다.

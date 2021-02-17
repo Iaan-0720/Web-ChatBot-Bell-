@@ -40,8 +40,9 @@ Ian/@Ian (aoa8538@gmail.com)
 - 챗봇의 전반적인 구동 방식은 'chatbot.py'파일에 수록해놓았으니 참조 바랍니다.<br/>
 - 또한 웹 구동 방식 및, 디자인 CSS소스를 비롯하여 'views' 디렉토리 내에 있는 'index.ejs'에 입력 및 설명되어 있으니 참고 하시면 되겠습니다.
 
-# Shows
-- 구동 영상을 
+# Video(How to work)
+- 구동 영상을 촬영해보았습니다 :)<br/>
+- I filmed a video(How to work) :)<br/>
 [![Upload](http://img.youtube.com/vi/yqh6l9gdK9A/0.jpg)](https://youtu.be/yqh6l9gdK9A?t=0s) 
 
 # Data(Send & Receive) Flow

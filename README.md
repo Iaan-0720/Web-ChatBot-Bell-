@@ -1,4 +1,4 @@
-# Web-ChatBot-Bell-
+# Web-ChatBot-Bell- (한글 설명)
 It can Explain about Words of Standard law from South Korea
 - 이것은 대한민국에서 적용되는 법률의 스탠다드 용어들에 대하여 설명하는 챗봇입니다.
 
@@ -59,3 +59,63 @@ Ian/@Ian (aoa8538@gmail.com)
 - 그 중에서도 직접적으로 많이 사용되는 (고빈도의) 용어들을 정리하여 프로젝트를 수행하게 되었습니다.
 - 이쪽 딥러닝 분야에 입문한지 4개월이 다되어가는 이때, 성공적으로 프로젝트를 수행하였고 저만의 챗봇을 개발하게 되어서 매우 뿌듯합니다.
 - 모두 읽어주셔서 감사합니다, 항상 행복하세요 :)
+
+
+# Web-ChatBot-Bell (Eng.ver)
+- It can Explain about Words of Standard law from South Korea
+
+# Learning Data
+|Title|Contents|From|
+|:------:|:---:|:------:|
+|Data Name|ChatBot 'Bell'|My Brain|
+|Basic Sources From|DeFault ChatBot Data Source|https://github.com/songys/Chatbot_data (Ms.Song)|
+| 1st Additional Data  |Additional Data Sources for ChatBot system|https://korquad.github.io/ (KorQuAD Set)|
+| 2nd Additional Data  |Legal Terms Data |https://www.data.go.kr/data/15069932/fileData.do (Korea PublicData Portal)|
+
+# Author
+Ian/@Ian (aoa8538@gmail.com)
+
+# Requirement
+- Tools used include:<br/>
+  - Python 3.7.9
+  - Tensorflow 2.4.1
+  - konlpy
+  - pandas
+  - numpy
+  - socket.io
+
+# Structure
+- It is a Web-shapped ChatBot, 'CSS' and 'NodeJS' used with main design is 'Bootstrap'.<br/>
+<br/>
+├── QnA:&nbsp;&nbsp;&nbsp;&nbsp; Directory for storing Questions and Answers.<br/>
+├── socket.io:&nbsp;&nbsp;&nbsp;&nbsp;For Web Socket implementation, the required basic files are stored in this Directory.<br/>
+├── views:&nbsp;&nbsp;&nbsp;&nbsp; The directory where the 'ejs' file created for implementing the Web Browser is stored.<br/>
+├── chatbot.py:&nbsp;&nbsp;&nbsp;&nbsp; This is a 'Deep-Learning' Python file.<br/>
+├── ChatBotData.csv:&nbsp;&nbsp;&nbsp;&nbsp; This is the Data Source of 'Ms.Song' (The source is specified in the table of the top from the part 'Learning Data').<br/>
+├── index.js:&nbsp;&nbsp;&nbsp;&nbsp; The File 'js' corresponding to 'Web Server'..<br/>
+├── RealEstate.csv:&nbsp;&nbsp;&nbsp;&nbsp; This is a file that organizes 'Real-Estate' and 'Standard Legal Terms'.
+
+# Design
+<img src="https://user-images.githubusercontent.com/79067558/108025412-c988e100-7069-11eb-8fbd-6903ef0ee0ce.png" width="60%">
+<img src="https://user-images.githubusercontent.com/79067558/108144214-951a3100-710c-11eb-9289-41c0f421b2a4.png" width="60%"><br/>
+- The design is the same as the top introduced picture, and both files('chatbot.py' and 'index.js')must be executed.<br/>
+- The overall operation of the 'Chatbot' is described in the Python file('chatbot.py), so Please refer to it.<br/>
+- It is also entered and described in the 'views' folder, including the Web operation method with Design sources('index.ejs').
+
+# Data(Send & Receive) Flow
+<img src="https://user-images.githubusercontent.com/79067558/108029757-61d69400-7071-11eb-8a82-4d0d27512b6c.png" width="60%"><br/>
+- This is a picture of the overall interaction of Data(About flow).<br/>
+- After reffering to this picture, I wrote it cause I thought it would be much easier to understand if who run the files.
+
+# Languages
+- Node js, JavaScript, CSS, Python, for Languages were used.<br/>
+- Additionally, the Slide animation effect has been applied, so it is recommended that you run the created 'pptx' file to see how it is implemented and how it works<br/>
+- (I will write an English version and upload it later, Sorry)
+
+# Motivation
+- It's been 4 months since I entered this field. After studying the basic theory, the composition may be insufficient cause I haven't been long since it was put into actual. 
+- But the reason why I decided to do this project was because my first priority to carry out my own project, and I thought deeply about the model that the times require for society to adapt quickly and easily changing.
+- In the beginning, I tried to implement a Chatbot limited to Real-Estate, but I changed my mind to oversee the terms of laws that apply in daily life to improve my skills.
+- Among them, the project was carried out by selecting terms that are used directly frequently.
+- It is been 4 months since I started 'Deep-Learning' and I'm very proud that I successfully carried out the project without any errors.
+- Thanks to read my post, God Bless you everyday. :)

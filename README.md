@@ -1,4 +1,4 @@
-# Web-ChatBot-Bell- (한글 설명)
+# Web-ChatBot-Bell- (Korean ver.)
 It can Explain about Words of Standard law from South Korea
 - 이것은 대한민국에서 적용되는 법률의 스탠다드 용어들에 대하여 설명하는 챗봇입니다.
 

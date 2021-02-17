@@ -42,7 +42,7 @@ Ian/@Ian (aoa8538@gmail.com)
 
 # Shows
 <br/>
-<iframe width="1280" height="753" src="https://www.youtube.com/embed/yqh6l9gdK9A" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://user-images.githubusercontent.com/79067558/108164542-50a28b80-7134-11eb-8a0b-ae002a54f78d.png)](https://www.youtube.com/watch?v=yqh6l9gdK9A)
 
 # Data(Send & Receive) Flow
 <img src="https://user-images.githubusercontent.com/79067558/108029757-61d69400-7071-11eb-8a82-4d0d27512b6c.png" width="60%"><br/>

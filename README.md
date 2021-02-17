@@ -41,8 +41,8 @@ Ian/@Ian (aoa8538@gmail.com)
 - 또한 웹 구동 방식 및, 디자인 CSS소스를 비롯하여 'views' 디렉토리 내에 있는 'index.ejs'에 입력 및 설명되어 있으니 참고 하시면 되겠습니다.
 
 # Shows
-<br/>
-[![Watch the video](https://user-images.githubusercontent.com/79067558/108164542-50a28b80-7134-11eb-8a0b-ae002a54f78d.png)](https://www.youtube.com/watch?v=yqh6l9gdK9A)
+- 구동 영상을 
+[![Upload](http://img.youtube.com/vi/yqh6l9gdK9A/0.jpg)](https://youtu.be/yqh6l9gdK9A?t=0s) 
 
 # Data(Send & Receive) Flow
 <img src="https://user-images.githubusercontent.com/79067558/108029757-61d69400-7071-11eb-8a82-4d0d27512b6c.png" width="60%"><br/>

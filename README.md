@@ -108,7 +108,7 @@ Ian/@Ian (aoa8538@gmail.com)
 - After reffering to this picture, I wrote it cause I thought it would be much easier to understand if who run the files.
 
 # Languages
-- Node js, JavaScript, CSS, Python, for Languages were used.<br/>
+- Node js, JavaScript, CSS, Python, four Languages were used.<br/>
 - Additionally, the Slide animation effect has been applied, so it is recommended that you run the created 'pptx' file to see how it is implemented and how it works<br/>
 - (I will write an English version and upload it later, Sorry)
 

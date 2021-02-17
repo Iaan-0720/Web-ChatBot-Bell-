@@ -5,7 +5,7 @@ It can Explain about Words of Standard law from South Korea
 # Learning Data
 |Title|Contents|From|
 |:------:|:---:|:------:|
-|Data Name|ChatBot 'Bell'|My Brain|
+|Data Name|ChatBot 'Bell'|My Brain (나의 머리)|
 |Basic Sources From|DeFault ChatBot Data Source|https://github.com/songys/Chatbot_data (송영숙님)|
 | 1st Additional Data  |Additional Data Sources for ChatBot system|https://korquad.github.io/ (KorQuAD)|
 | 2nd Additional Data  |Legal Terms Data |https://www.data.go.kr/data/15069932/fileData.do (공공데이터 포털)|

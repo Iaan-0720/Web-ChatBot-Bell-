@@ -43,6 +43,7 @@ Ian/@Ian (aoa8538@gmail.com)
 # Video(How to work)
 - 구동 영상을 촬영해보았습니다 :)<br/>
 - I filmed a video(How to work) :)<br/>
+- 클릭을 하시면, 동영상이 재생됩니다. (If you click, The video will play.) <br/>
 [![Upload](http://img.youtube.com/vi/yqh6l9gdK9A/0.jpg)](https://youtu.be/yqh6l9gdK9A?t=0s) 
 
 # Data(Send & Receive) Flow

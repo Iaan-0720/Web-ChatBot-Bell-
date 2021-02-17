@@ -19,6 +19,7 @@ Ian/@Ian (aoa8538@gmail.com)
   - Tensorflow 2.4.1
   - konlpy
   - pandas
+  - keras
   - numpy
   - socket.io
   
@@ -87,6 +88,7 @@ Ian/@Ian (aoa8538@gmail.com)
   - Tensorflow 2.4.1
   - konlpy
   - pandas
+  - keras
   - numpy
   - socket.io
 
